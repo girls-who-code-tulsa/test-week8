@@ -28,4 +28,4 @@ you need to include the **folder** in the file path. So it should be `<script sr
 
 **What can you tell me about this: <input type="text"/> what is it? what will we be using them for?**
 
-[[answer]]
+`<input type="text">` creates a TEXT field where users can enter information on a page. Then we can grab that information and do stuff with it using JavaScript/jQuery
